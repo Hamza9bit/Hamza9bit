@@ -1,7 +1,8 @@
 ![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Hamza Azeem</h1>
 <h3 align="center">Passionate about everything technology including Machine Learning, Data Science, UI/UX</h3>
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4f074c48fbf18734f513205dba652f411e9303193a60b2a72d33069d7253d07d/68747470733a2f2f6d656469612e74656e6f722e636f6d2f6954744a376e417170496341414141432f73747261792d636f64696e672e676966">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza9bit&label=Profile%20views&color=0e75b6&style=flat" alt="hamza9bit" /> </p>
 
 
