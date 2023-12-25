@@ -1,8 +1,9 @@
 ![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Hamza Azeem</h1>
 <h3 align="center">Passionate about everything technology including Machine Learning, Data Science, UI/UX</h3>
-<img align="right" alt="Coding" width"400" <iframe src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog">via GIPHY</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza9bit&label=Profile%20views&color=0e75b6&style=flat" alt="hamza9bit" /> </p>
+
 
 - 🌱 I’m currently learning **AWS cloud integration**
 
