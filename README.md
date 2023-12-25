@@ -1,7 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Hamza Azeem</h1>
 <h3 align="center">Passionate about everything technology including Machine Learning, Data Science, UI/UX</h3>
-<img align="right" alt="Coding" width"400" src="https://tenor.com/view/stray-programming-coding-gif-26276551">
+<img align="right" alt="Coding" width"400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza9bit&label=Profile%20views&color=0e75b6&style=flat" alt="hamza9bit" /> </p>
 
 - 🌱 I’m currently learning **AWS cloud integration**
