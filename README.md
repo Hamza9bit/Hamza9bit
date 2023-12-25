@@ -1,5 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
+![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Hamza Azeem</h1>
 <h3 align="center">Passionate about everything technology including Machine Learning, Data Science, UI/UX</h3>
 <img align="right" alt="Coding" width"400" src="https://github.com/samadpls/Programing-Gifs/blob/main/static/gifs/pic13.gif">
