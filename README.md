@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza9bit&label=Profile%20views&color=0e75b6&style=flat" alt="hamza9bit" /> </p>
 
 
-- 🌱 I’m currently learning **AWS cloud integration**
+- 🌱 I’m currently preparing for **AWS Associate Data Engineer Certification**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hamzaazeem9](https://www.linkedin.com/in/hamzaazeem9)
 
