@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **AWS cloud integration**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-hamzaazeem](https://www.linkedin.com/in/muhammad-hamzaazeem)
+- 📄 Know about my experiences [https://www.linkedin.com/in/hamzaazeem9](https://www.linkedin.com/in/hamzaazeem9)
 
 - 📝 I illustrate stories on [https://www.instagram.com/scribblesbyhamza/](https://www.instagram.com/scribblesbyhamza/)
 
-- 📫 How to reach me **u2020296@giki.edu.pk**
+- 📫 How to reach me **hamzaazeem2014@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
